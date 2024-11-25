@@ -1782,10 +1782,10 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: RU 🇷🇺-Hysteria2 | 0-0
+  - name: US 🇺🇸-Hysteria2 | 0-0
     type: hysteria2
-    server: 185.22.152.93
-    port: 47382
+    server: 91.149.239.138
+    port: 12345
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
@@ -1992,7 +1992,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
-      - RU 🇷🇺-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - 🏳 CloudFlare-vmess | 0-0
       - 🏳 CloudFlare-vmess | 1-0
       - 🏳 CloudFlare-vmess | 2-0
@@ -2120,7 +2120,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
-      - RU 🇷🇺-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - 🏳 CloudFlare-vmess | 0-0
       - 🏳 CloudFlare-vmess | 1-0
       - 🏳 CloudFlare-vmess | 2-0
