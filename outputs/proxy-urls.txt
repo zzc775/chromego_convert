@@ -3007,4 +3007,4 @@ hysteria://46.17.43.223:12345/?protocol=udp&insecure=NaN&peer=bing.com&auth=dong
 hysteria://46.17.43.223:12345/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 2-0
 hysteria://46.17.43.223:12345/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 3-0
 hysteria2://dongtaiwang.com@46.17.41.189:50717/?sni=www.bing.com&insecure=NaN#RU 🇷🇺-Hysteria2 | 0-0
-vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wtdm1lc3MgfCAwLTAiLCJhZGQiOiIzNi4yMjYuMjQzLjEwNyIsInBvcnQiOjMzMzMzLCJpZCI6IjdjNGVmYzQ1LTQyZjctNDhkOC1hNzQxLTYwOTNjZDI4ODZhNyIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wtdm1lc3MgfCAwLTAiLCJhZGQiOiIyMjAuMTM2LjE0NC4xMzciLCJwb3J0IjozMzMzMywiaWQiOiI3YzRlZmM0NS00MmY3LTQ4ZDgtYTc0MS02MDkzY2QyODg2YTciLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9
