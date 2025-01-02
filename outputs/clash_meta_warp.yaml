@@ -45156,21 +45156,6 @@ proxies:
     reality-opts:
       public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
       short-id: e12d7fdb
-  - name: TW 🇹🇼-vless | 1-0
-    type: vless
-    server: 36.226.244.225
-    port: 56870
-    uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
-    flow: xtls-rprx-vision
-    tls: true
-    servername: www.yahoo.com
-    network: tcp
-    client-fingerprint: chrome
-    grpc-opts:
-      grpc-service-name: /
-    reality-opts:
-      public-key: 9J1xcf0tI7OQ8Z6ULcruIIjsM5AK3nZTXdOK6GIhwmA
-      short-id: 239c3cef
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -48188,7 +48173,6 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
-      - TW 🇹🇼-vless | 1-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -51205,7 +51189,6 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
-      - TW 🇹🇼-vless | 1-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -54222,7 +54205,6 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
-      - TW 🇹🇼-vless | 1-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
