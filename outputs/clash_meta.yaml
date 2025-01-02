@@ -45124,6 +45124,21 @@ proxies:
     skip-cert-verify: true
   - name: TW 🇹🇼-vless | 0-0
     type: vless
+    server: 1.162.18.226
+    port: 37898
+    uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.yahoo.com
+    network: tcp
+    client-fingerprint: chrome
+    grpc-opts:
+      grpc-service-name: /
+    reality-opts:
+      public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
+      short-id: e12d7fdb
+  - name: TW 🇹🇼-vless | 1-0
+    type: vless
     server: 36.226.244.225
     port: 56870
     uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
@@ -48153,6 +48168,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -51169,6 +51185,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: 📺 巴哈姆特
     type: select
     proxies:
