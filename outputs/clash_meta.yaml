@@ -45011,6 +45011,17 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: m5694.164748.xyz
+  - name: US 🇺🇸-hysteria | 3-1
+    type: hysteria
+    server: 208.87.243.151
+    port: 17549
+    auth_str: dongtaiwang.com
+    alpn:
+      - h3
+    sni: www.bing.com
+    skip-cert-verify: true
+    up: 11 Mbps
+    down: 55 Mbps
   - name: US 🇺🇸-hysteria | 4-1
     type: hysteria
     server: 108.181.24.77
@@ -48129,6 +48140,7 @@ proxy-groups:
       - 🏳 CloudFlare-vmess | 2-998
       - 🏳 CloudFlare-vmess | 2-999
       - 🏳 CloudFlare-vmess | 2-1000
+      - US 🇺🇸-hysteria | 3-1
       - US 🇺🇸-hysteria | 4-1
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
@@ -51144,6 +51156,7 @@ proxy-groups:
       - 🏳 CloudFlare-vmess | 2-998
       - 🏳 CloudFlare-vmess | 2-999
       - 🏳 CloudFlare-vmess | 2-1000
+      - US 🇺🇸-hysteria | 3-1
       - US 🇺🇸-hysteria | 4-1
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
