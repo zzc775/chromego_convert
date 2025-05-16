@@ -3000,9 +3000,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBDbG91ZEZsYXJlLXZtZXNzIHwgMi05OTkiLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBDbG91ZEZsYXJlLXZtZXNzIHwgMi0xMDAwIiwiYWRkIjoiMTYyLjE1OS40NS4yNTAiLCJwb3J0IjoyMDg2LCJpZCI6IjdkOTJmZmM5LTAyZTEtNDA4Ny04YTQ2LWNjNGQ3NjU2MDkxNyIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtNjM5NC4xNjQ3NDgueHl6IiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwidGxzIjoiIiwic25pIjoibTYzOTQuMTY0NzQ4Lnh5eiIsImFscG4iOiIifQ==
 hysteria://208.87.243.151:17549/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 3-1
 hysteria://108.181.24.77:11512/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 4-1
+hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#RU 🇷🇺-hysteria | 5-1
 hysteria://208.87.243.151:17549/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 6-1
+hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 0-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 1-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 2-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 3-0
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011/?sni=www.bing.com&insecure=NaN#CloudFlare 🇨🇱-Hysteria2 | 0-0
-vless://ec302de4-6b3d-4f03-a228-3c6d303ed370@1.162.51.106:37898?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ&sid=e12d7fdb&type=tcp&serviceName=/&host=&path=#TW 🇹🇼-vless | 1-0
+vless://ec302de4-6b3d-4f03-a228-3c6d303ed370@1.162.51.106:37898?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ&sid=e12d7fdb&type=tcp&serviceName=/&host=&path=#TW 🇹🇼-vless | 0-0
