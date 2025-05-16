@@ -45098,20 +45098,6 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: RU 🇷🇺-Hysteria | 3-0
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    ports: 10803
-    auth-str: dongtaiwang.com
-    up: 80
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
   - name: CloudFlare 🇨🇱-Hysteria2 | 0-0
     type: hysteria2
     server: hy2.694463.xyz
@@ -48147,7 +48133,6 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
-      - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
   - name: ♻️ 自动选择
@@ -51163,7 +51148,6 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
-      - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
   - name: 📺 巴哈姆特
