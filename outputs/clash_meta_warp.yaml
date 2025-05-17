@@ -45041,29 +45041,6 @@ proxies:
     skip-cert-verify: true
     up: 11 Mbps
     down: 55 Mbps
-  - name: US 🇺🇸-hysteria | 4-1
-    type: hysteria
-    server: 108.181.24.77
-    port: 11512
-    auth-str: dongtaiwang.com
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
-    protocol: udp
-    up: 11 Mbps
-    down: 55 Mbps
-  - name: RU 🇷🇺-hysteria | 5-1
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    auth_str: dongtaiwang.com
-    alpn:
-      - h3
-    sni: www.bing.com
-    skip-cert-verify: true
-    up: 11 Mbps
-    down: 55 Mbps
   - name: US 🇺🇸-hysteria | 6-1
     type: hysteria
     server: 208.87.243.151
@@ -45131,13 +45108,6 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: CloudFlare 🇨🇱-Hysteria2 | 0-0
-    type: hysteria2
-    server: hy2.694463.xyz
-    port: 10011
-    password: dongtaiwang.com
-    sni: www.bing.com
-    skip-cert-verify: true
   - name: TW 🇹🇼-vless | 0-0
     type: vless
     server: 1.162.51.106
@@ -48161,14 +48131,11 @@ proxy-groups:
       - 🏳 CloudFlare-vmess | 2-999
       - 🏳 CloudFlare-vmess | 2-1000
       - US 🇺🇸-hysteria | 3-1
-      - US 🇺🇸-hysteria | 4-1
-      - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
-      - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
   - name: ♻️ 自动选择
     type: url-test
@@ -51177,14 +51144,11 @@ proxy-groups:
       - 🏳 CloudFlare-vmess | 2-999
       - 🏳 CloudFlare-vmess | 2-1000
       - US 🇺🇸-hysteria | 3-1
-      - US 🇺🇸-hysteria | 4-1
-      - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
-      - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
   - name: ⚖ 负载均衡
     type: load-balance
@@ -54193,14 +54157,11 @@ proxy-groups:
       - 🏳 CloudFlare-vmess | 2-999
       - 🏳 CloudFlare-vmess | 2-1000
       - US 🇺🇸-hysteria | 3-1
-      - US 🇺🇸-hysteria | 4-1
-      - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
-      - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
   - name: ☁ WARP前置节点
     type: select
