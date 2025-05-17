@@ -45075,35 +45075,7 @@ proxies:
     skip-cert-verify: true
     up: 11 Mbps
     down: 55 Mbps
-  - name: RU 🇷🇺-Hysteria | 0-0
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    ports: 10803
-    auth-str: dongtaiwang.com
-    up: 80
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
   - name: RU 🇷🇺-Hysteria | 1-0
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    ports: 10803
-    auth-str: dongtaiwang.com
-    up: 80
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
-  - name: RU 🇷🇺-Hysteria | 2-0
     type: hysteria
     server: 185.22.155.71
     port: 10803
@@ -48164,9 +48136,7 @@ proxy-groups:
       - US 🇺🇸-hysteria | 4-1
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
-      - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
-      - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
@@ -51180,9 +51150,7 @@ proxy-groups:
       - US 🇺🇸-hysteria | 4-1
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
-      - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
-      - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
@@ -54196,9 +54164,7 @@ proxy-groups:
       - US 🇺🇸-hysteria | 4-1
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
-      - RU 🇷🇺-Hysteria | 0-0
       - RU 🇷🇺-Hysteria | 1-0
-      - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
       - TW 🇹🇼-vless | 0-0
