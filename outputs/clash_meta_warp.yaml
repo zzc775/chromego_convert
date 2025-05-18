@@ -45089,20 +45089,6 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: RU 🇷🇺-Hysteria | 1-0
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    ports: 10803
-    auth-str: dongtaiwang.com
-    up: 80
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
   - name: RU 🇷🇺-Hysteria | 2-0
     type: hysteria
     server: 185.22.155.71
@@ -45138,7 +45124,7 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
-  - name: TW 🇹🇼-vless | 0-0
+  - name: TW 🇹🇼-vless | 1-0
     type: vless
     server: 1.162.51.106
     port: 37898
@@ -48165,11 +48151,10 @@ proxy-groups:
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
-      - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -51181,11 +51166,10 @@ proxy-groups:
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
-      - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -54197,11 +54181,10 @@ proxy-groups:
       - RU 🇷🇺-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
       - RU 🇷🇺-Hysteria | 0-0
-      - RU 🇷🇺-Hysteria | 1-0
       - RU 🇷🇺-Hysteria | 2-0
       - RU 🇷🇺-Hysteria | 3-0
       - CloudFlare 🇨🇱-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
