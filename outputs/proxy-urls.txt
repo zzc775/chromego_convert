@@ -3001,6 +3001,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBDbG91ZEZsYXJlLXZtZXNzIHwgMi0xMDAwIiwiYWRkIjoi
 hysteria://208.87.243.151:17549/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 3-1
 hysteria://108.181.24.77:11512/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 4-1
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#RU 🇷🇺-hysteria | 5-1
+hysteria://208.87.243.151:17549/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#US 🇺🇸-hysteria | 6-1
+hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 0-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 1-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 2-0
 hysteria://185.22.155.71:10803/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#RU 🇷🇺-Hysteria | 3-0
