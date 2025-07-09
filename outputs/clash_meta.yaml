@@ -45126,10 +45126,10 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
-  - name: RU 🇷🇺-Hysteria2 | 2-0
+  - name: FR 🇫🇷-Hysteria2 | 2-0
     type: hysteria2
-    server: 45.129.2.248
-    port: 23579
+    server: 62.210.113.151
+    port: 10011
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
@@ -48164,7 +48164,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - RU 🇷🇺-Hysteria2 | 1-0
-      - RU 🇷🇺-Hysteria2 | 2-0
+      - FR 🇫🇷-Hysteria2 | 2-0
       - TW 🇹🇼-vless | 0-0
   - name: ♻️ 自动选择
     type: url-test
@@ -51182,7 +51182,7 @@ proxy-groups:
       - RU 🇷🇺-Hysteria | 3-0
       - RU 🇷🇺-Hysteria2 | 0-0
       - RU 🇷🇺-Hysteria2 | 1-0
-      - RU 🇷🇺-Hysteria2 | 2-0
+      - FR 🇫🇷-Hysteria2 | 2-0
       - TW 🇹🇼-vless | 0-0
   - name: 📺 巴哈姆特
     type: select
