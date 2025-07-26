@@ -3007,5 +3007,4 @@ hysteria://109.104.153.91:37519/?protocol=udp&insecure=NaN&peer=apple.com&auth=d
 hysteria://109.104.153.91:37519/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#NL 🇳🇱-Hysteria | 2-0
 hysteria://109.104.153.91:37519/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#NL 🇳🇱-Hysteria | 3-0
 hysteria2://dongtaiwang.com@104.168.10.176:35205/?sni=apple.com&insecure=NaN#US 🇺🇸-Hysteria2 | 0-0
-hysteria2://dongtaiwang.com@64.31.63.57:44462/?sni=apple.com&insecure=NaN#FR 🇫🇷-Hysteria2 | 2-0
 vless://ec302de4-6b3d-4f03-a228-3c6d303ed370@1.162.51.106:37898?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ&sid=e12d7fdb&type=tcp&serviceName=/&host=&path=#TW 🇹🇼-vless | 0-0

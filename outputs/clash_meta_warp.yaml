@@ -45138,13 +45138,6 @@ proxies:
     password: dongtaiwang.com
     sni: apple.com
     skip-cert-verify: true
-  - name: FR 🇫🇷-Hysteria2 | 2-0
-    type: hysteria2
-    server: 64.31.63.57
-    port: 44462
-    password: dongtaiwang.com
-    sni: apple.com
-    skip-cert-verify: true
   - name: TW 🇹🇼-vless | 0-0
     type: vless
     server: 1.162.51.106
@@ -48176,7 +48169,6 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - FR 🇫🇷-Hysteria2 | 2-0
       - TW 🇹🇼-vless | 0-0
   - name: ♻️ 自动选择
     type: url-test
@@ -51193,7 +51185,6 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - FR 🇫🇷-Hysteria2 | 2-0
       - TW 🇹🇼-vless | 0-0
   - name: ⚖ 负载均衡
     type: load-balance
@@ -54210,7 +54201,6 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - FR 🇫🇷-Hysteria2 | 2-0
       - TW 🇹🇼-vless | 0-0
   - name: ☁ WARP前置节点
     type: select
