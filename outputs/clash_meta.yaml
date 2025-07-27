@@ -45057,20 +45057,6 @@ proxies:
     skip-cert-verify: true
     up: 11 Mbps
     down: 55 Mbps
-  - name: NL 🇳🇱-Hysteria | 0-0
-    type: hysteria
-    server: 109.104.153.91
-    port: 37519
-    ports: 10000
-    auth-str: dongtaiwang.com
-    up: 80
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
   - name: NL 🇳🇱-Hysteria | 1-0
     type: hysteria
     server: 109.104.153.91
@@ -48145,7 +48131,6 @@ proxy-groups:
       - US 🇺🇸-hysteria | 4-1
       - NL 🇳🇱-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
-      - NL 🇳🇱-Hysteria | 0-0
       - NL 🇳🇱-Hysteria | 1-0
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
@@ -51161,7 +51146,6 @@ proxy-groups:
       - US 🇺🇸-hysteria | 4-1
       - NL 🇳🇱-hysteria | 5-1
       - US 🇺🇸-hysteria | 6-1
-      - NL 🇳🇱-Hysteria | 0-0
       - NL 🇳🇱-Hysteria | 1-0
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
