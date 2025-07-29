@@ -45139,7 +45139,7 @@ proxies:
     password: dongtaiwang.com
     sni: apple.com
     skip-cert-verify: true
-  - name: TW 🇹🇼-vless | 0-0
+  - name: TW 🇹🇼-vless | 1-0
     type: vless
     server: 1.162.51.106
     port: 37898
@@ -48170,7 +48170,7 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -51186,7 +51186,7 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -54202,7 +54202,7 @@ proxy-groups:
       - NL 🇳🇱-Hysteria | 2-0
       - NL 🇳🇱-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
-      - TW 🇹🇼-vless | 0-0
+      - TW 🇹🇼-vless | 1-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
