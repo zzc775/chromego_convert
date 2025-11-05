@@ -63,7 +63,7 @@ proxies:
     down: 55 Mbps
   - name: FR 🇫🇷-hysteria | 4-1
     type: hysteria
-    server: 62.210.127.217
+    server: 62.210.10.186
     port: 50011
     auth-str: dongtaiwang.com
     sni: apple.com
@@ -75,7 +75,7 @@ proxies:
     down: 55 Mbps
   - name: FR 🇫🇷-hysteria | 5-1
     type: hysteria
-    server: 62.210.127.217
+    server: 2001:bc8:32d7:158::2
     port: 50011
     auth-str: dongtaiwang.com
     sni: apple.com
